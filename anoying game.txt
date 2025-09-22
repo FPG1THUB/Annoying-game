@@ -1,0 +1,22 @@
+Annoying Game:
+
+Key binds are not set by default. (It resets key binds every time you start the game.)
+
+You need to read and confirm a TOS, then wait 5 seconds to access options. (every time) 
+
+2 confirm buttons with 5-second wait times to save options. (doesn't save permanently)
+
+The Game crashes randomly but saves 30 seconds before. (Just so you don't lose a bunch.)
+
+Your mouse sencitvity is extreamly slow
+
+Game Play: 
+Mario-style Plat former:
+The player walks at 0.5 speed by default.
+The player can ungrade their walk speed by 0.1 but has a chance to go down to 0.2 speed.
+The player has a Sprint, but you will run out of air if you run for too long. (5 steps)
+It will take a while to get your breath back and will make you walk slower since you've puffed out.
+
+
+You're always 3 pixels too short when jumping to get loot boxes. (Mario style)
+But you can jump over it if you're not below anything.
